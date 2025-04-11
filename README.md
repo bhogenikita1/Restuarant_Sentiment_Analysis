@@ -37,3 +37,19 @@ Make sure the dataset is present or follow the instructions in the notebook to l
    ```bash
    git clone https://github.com/yourusername/restaurant-review-classification.git
    cd restaurant-review-classification
+
+## 📈 Output
+Accuracy of the sentiment classification model
+
+Confusion Matrix and Performance Metrics
+
+Sentiment prediction for new text input
+
+## ✅ Future Enhancements
+Use TF-IDF for better feature extraction
+
+Try more advanced classifiers like Logistic Regression, SVM
+
+Build a web interface using Flask
+
+Use pre-trained models like BERT for deeper insights
